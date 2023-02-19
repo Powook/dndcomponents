@@ -1,0 +1,17 @@
+.productWrapper{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   height: 200px;
+   width: 140px;
+   margin: 10px;
+   background-color: white;
+}
+
+.productLogo {
+   background-color: blue;
+   width: auto;
+   height: 80px;
+   margin:10px;
+}
+
